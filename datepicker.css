@@ -1,5 +1,4 @@
 /*!
-test
  * Datepicker v1.0.10
  * https://fengyuanchen.github.io/datepicker
  *
